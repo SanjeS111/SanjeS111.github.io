@@ -10,4 +10,4 @@
 
 ## Как открыть
 
-[Посмотрите сами](https://sanjes111.github.io /)
+Перейдите по ссылке (https://sanjes111.github.io /)
