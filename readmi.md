@@ -10,4 +10,4 @@
 
 ## Как открыть
 
-Нажмите [Новости](https://sanjes111.github.io /)
+[Посмотрите сами](https://sanjes111.github.io /)
